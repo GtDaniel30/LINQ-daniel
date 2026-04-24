@@ -1,0 +1,14 @@
+C:\Users\jesus\Desktop\LINQ daniel\bin\Debug\net9.0\LINQ daniel.exe
+C:\Users\jesus\Desktop\LINQ daniel\bin\Debug\net9.0\LINQ daniel.deps.json
+C:\Users\jesus\Desktop\LINQ daniel\bin\Debug\net9.0\LINQ daniel.runtimeconfig.json
+C:\Users\jesus\Desktop\LINQ daniel\bin\Debug\net9.0\LINQ daniel.dll
+C:\Users\jesus\Desktop\LINQ daniel\bin\Debug\net9.0\LINQ daniel.pdb
+C:\Users\jesus\Desktop\LINQ daniel\obj\Debug\net9.0\LINQ daniel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\Desktop\LINQ daniel\obj\Debug\net9.0\LINQ daniel.AssemblyInfoInputs.cache
+C:\Users\jesus\Desktop\LINQ daniel\obj\Debug\net9.0\LINQ daniel.AssemblyInfo.cs
+C:\Users\jesus\Desktop\LINQ daniel\obj\Debug\net9.0\LINQ daniel.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Desktop\LINQ daniel\obj\Debug\net9.0\LINQ daniel.dll
+C:\Users\jesus\Desktop\LINQ daniel\obj\Debug\net9.0\refint\LINQ daniel.dll
+C:\Users\jesus\Desktop\LINQ daniel\obj\Debug\net9.0\LINQ daniel.pdb
+C:\Users\jesus\Desktop\LINQ daniel\obj\Debug\net9.0\LINQ daniel.genruntimeconfig.cache
+C:\Users\jesus\Desktop\LINQ daniel\obj\Debug\net9.0\ref\LINQ daniel.dll
