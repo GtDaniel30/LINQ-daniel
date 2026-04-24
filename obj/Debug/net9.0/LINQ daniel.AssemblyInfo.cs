@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ daniel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a589e0bcdee2d0c15179e9d97f987ada47a6748")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ daniel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ daniel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
